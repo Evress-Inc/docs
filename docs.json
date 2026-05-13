@@ -70,6 +70,10 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Integrations",
+        "href": "integrations"
       }
     ],
     "global": {
