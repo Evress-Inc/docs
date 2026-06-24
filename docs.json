@@ -73,7 +73,20 @@
       },
       {
         "tab": "Integrations",
-        "href": "integrations"
+        "groups": [
+          {
+            "group": "Integrations",
+            "pages": [
+              "integrations"
+            ]
+          },
+          {
+            "group": "Integrations 2",
+            "pages": [
+              "integrations"
+            ]
+          }
+        ]
       }
     ],
     "global": {
